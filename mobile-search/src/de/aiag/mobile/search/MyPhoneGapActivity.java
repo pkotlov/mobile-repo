@@ -18,4 +18,9 @@ public class MyPhoneGapActivity extends DroidGap {
 		super.loadUrl("file:///android_asset/www/index.html");
 	}
 
+	public void doSomethingMore()
+	{
+
+	}
+
 }
