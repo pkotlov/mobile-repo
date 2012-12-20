@@ -23,4 +23,9 @@ public class MyPhoneGapActivity extends DroidGap {
 
 	}
 
+	public void doSomethingDifferent()
+	{
+
+	}
+
 }
